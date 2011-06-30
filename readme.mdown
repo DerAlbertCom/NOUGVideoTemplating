@@ -1,0 +1,8 @@
+
+Modifies the Windows Movie Maker Template and set the right Length and Gaps for the
+Video, so that you have an start for editing an Online User Group Screencast with
+the Standard Opening and Closing.
+
+Usage
+
+.\makewmmproject.ps1 "ScreenCastVideoFile.wmv" "Name of Presenter"
